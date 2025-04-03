@@ -2,27 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/1-sport-bikes-%f0%9f%8f%8d%ef%b8%8f/
+            http://localhost:8000/1-sport-bikes/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/2-cruiser-motorcycles-%f0%9f%8f%81/
+            http://localhost:8000/2-cruiser-motorcycles/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/3-touring-motorcycles-%f0%9f%8f%94%ef%b8%8f/
+            http://localhost:8000/3-touring-motorcycles/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/4-adventure-motorcycles-adv-%f0%9f%8c%8d/
+            http://localhost:8000/4-adventure-motorcycles-adv/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/5-naked-standard-bikes-%f0%9f%9a%a6/
+            http://localhost:8000/5-naked-standard-bikes/
         </loc>
     </url>
     <url>
